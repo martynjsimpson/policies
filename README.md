@@ -11,5 +11,6 @@ Skeleton Policies for Information Security. Provided without warranty.
 - [Remote Access Policy](Remote-Access-Policy.md)
 - [Security Awareness Training Policy](Security-Awareness-Training-Policy.md)
 - [Software Development and Release Policy](Software-Development-and-Release-Policy.md)
+- [Source Code Protection Policy](Source-Code-Protection-Policy.md)
 - [Vendor and Third-Party Management Policy](Vendor-and-Third-Party-Management-Policy.md)
 - [Vulnerability and Patch Management Policy](Vulnerability-and-Patch-Management-Policy.md)
