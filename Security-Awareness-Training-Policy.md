@@ -2,17 +2,31 @@
 
 [TOC]
 
-## Policy Objective:
+## Purpose
 
 - The objective of this policy is to ensure that all employees and relevant stakeholders receive regular security awareness training to understand and mitigate information security risks.
 
-## Training Requirements:
+## Scope
+
+- Who does this policy apply to
+
+## Roles and Responsibilities
+
+- For a policy to be effective, roles and responsibilities must be clearly defined and agreed. Responsibilities should cover both the governance and the implementation of the policy, so may include internal staff and external users and service providers. As a minimum, responsibilities for ownership, oversight and escalation, implementation, and adherence to the policy should be included.
+
+## Glossary
+
+- Define terms here
+
+## Policy
+
+### Training Requirements
 
 - All employees, contractors, and third-party users who have access to company systems, networks, or sensitive information must complete security awareness training.
 - Training should be provided during the onboarding process and repeated at regular intervals (e.g., annually or biannually).
 - Additional training sessions should be conducted when significant security incidents occur or when there are updates to policies, procedures, or technology.
 
-## Training Content:
+### Training Content
 
 - Security awareness training should cover a range of topics, including but not limited to:
   - Recognizing and reporting phishing attacks, social engineering attempts, and suspicious activities.
@@ -24,25 +38,37 @@
   - Importance of regular software updates and patches to address security vulnerabilities.
   - Incident reporting procedures and contact information for reporting security incidents.
 
-## Training Delivery:
+### Training Delivery
 
 - Training can be delivered through a variety of methods, such as online modules, classroom sessions, webinars, or a combination of these.
 - Use a variety of engaging and interactive training techniques, including real-world examples, quizzes, case studies, and simulations.
 - Consider leveraging third-party security awareness training resources or engaging external experts to provide specialized training.
 
-## Training Tracking and Compliance:
+### Training Tracking and Compliance
 
 - Maintain a record of individuals who have completed security awareness training.
 - Regularly assess and validate employees' understanding of the training material through quizzes, assessments, or simulated phishing exercises.
 - Follow up with employees who require additional guidance or remedial training to address identified gaps.
 
-## Ongoing Awareness Programs:
+### Ongoing Awareness Programs
 
 - Establish an ongoing security awareness program to reinforce training concepts and promote a culture of security awareness.
 - Conduct regular communication campaigns to provide timely updates, share security-related news and trends, and reinforce key security messages.
 - Encourage employees to report suspicious activities or security concerns and provide clear channels for reporting.
 
-## Policy Review:
+### Policy Review
 
 - Regularly review and update the security awareness training policy to align with evolving security threats, industry best practices, and regulatory requirements.
 - Involve key stakeholders, such as IT, HR, and legal departments, in the policy review process.
+
+## Sanctions
+
+- What happens if somebody breaks this policy
+
+## Exceptions
+
+- Exception process and approved exceptions go here
+
+## References
+
+- External references
